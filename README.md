@@ -46,8 +46,8 @@ project_test.py - Python file contains solutions for test questions in the Jupyt
 (**Note:** P files are used by project_test.py to test top n articles we obtained via functions we created.)
 
 ## Folder: data
-articles_community.csv - articles available on the IBM platform
-user-item-interactions.csv - list of articles that users interact with
+**articles_community.csv** - articles available on the IBM platform</br>
+**user-item-interactions.csv** - list of articles that users interact with</br>
 
 ## Installation
 There should be no extra libraries required to install apart from those coming together with Anaconda distribution. There should be no issue to run the codes using Python 3.5 and above.
